@@ -58,5 +58,3 @@ df.head()
 pie chart statistical analysis
 df=data[["source_name","source_website","total_vaccination"]
 df.head()
-
-#import p
